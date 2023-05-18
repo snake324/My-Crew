@@ -1,6 +1,6 @@
 header{
     color: white;
-    background-image: url(backheader.png);
+    background-image: url(./images/backheader.PNG);
     background-size: cover;
 }
 h1{
@@ -24,20 +24,13 @@ h1{
     display:block;
 }
 
-.copy{
-    width: 75px;
-    height: 75px;
-    margin-right: auto;
-    display: block;
-}
-
 footer{
     background-color: black;
     color: white;
     text-align: center;
 }
 
-.h4{
-    color: white;
-    text-align: center;
+.copy{
+    width: 50px;
+    height: 50px;
 }
