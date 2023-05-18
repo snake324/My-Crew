@@ -1,25 +1,43 @@
 header{
     color: white;
-    text-align: center;
     background-image: url(backheader.png);
     background-size: cover;
 }
 h1{
     background-color: #20EFEF;
     color: white;
-
 }
 .logo{
     width: 100px;
     height: 100px;
+    float: left;
 }
+
+.eslogan{
+    text-align: center;
+    font-family: 'calibri';
+    font-size: 300%;
+}
+
+.banner{
+    margin: auto;
+    display:block;
+}
+
 .copy{
     width: 75px;
     height: 75px;
+    margin-right: auto;
+    display: block;
 }
 
 footer{
     background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.h4{
     color: white;
     text-align: center;
 }
