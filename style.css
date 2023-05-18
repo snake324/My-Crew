@@ -37,15 +37,11 @@ section{
 }
 
 .josep{
-
+    text-align: center;
 }
 
 .cristian{
-   
-}
-
-ul{
-    display:inline-block; 
+    text-align: center;
 }
 footer{
     background-color: black;
