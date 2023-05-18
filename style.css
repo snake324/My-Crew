@@ -24,6 +24,29 @@ h1{
     display:block;
 }
 
+section{
+    background-image: url(./images/fondo.jpg);
+}
+.avatar1{
+    width: 200px;
+    height:200px
+}
+.avatar2{
+    width: 200px;
+    height:200px
+}
+
+.josep{
+
+}
+
+.cristian{
+   
+}
+
+ul{
+    display:inline-block; 
+}
 footer{
     background-color: black;
     color: white;
